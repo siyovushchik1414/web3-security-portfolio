@@ -1,7 +1,5 @@
 "Что такое Web3";"Lesson 0: Prerequisites"
-
 "Какие есть направления в Web3? Чем занимается Security and Auditing?";"Lesson 0: Prerequisites"
-
 "Насколько важно хорошо понимать математику для Web3?";"Lesson 0: Prerequisites"
 "Что такое блокчейн?";"Lesson 0: Prerequisites"
 "Как в Web3 достигается децентрализация?";"Lesson 0: Prerequisites"
